@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Awareness of Nature</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e6f7e6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #2e8b57;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px gray;
+        }
+
+        h2 {
+            color: #2e8b57;
+        }
+
+        img {
+            width: 100%;
+            max-width: 400px;
+            border-radius: 10px;
+        }
+
+        .quote {
+            font-style: italic;
+            color: darkgreen;
+        }
+
+        footer {
+            background-color: #2e8b57;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Awareness of Nature</h1>
+    <p>Protect Nature, Protect Life 🌿</p>
+</header>
+
+<section>
+    <h2>What is Nature?</h2>
+    <p>
+        Nature includes everything around us such as trees, rivers, mountains, animals, air, and water.
+        It provides us with food, shelter, oxygen, and resources necessary for survival.
+    </p>
+</section>
+
+<section>
+    <h2>Importance of Nature</h2>
+    <ul>
+        <li>Provides oxygen and clean air</li>
+        <li>Maintains ecological balance</li>
+        <li>Source of food and medicine</li>
+        <li>Supports wildlife and biodiversity</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Ways to Save Nature</h2>
+    <ul>
+        <li>Plant more trees</li>
+        <li>Reduce plastic usage</li>
+        <li>Save water and electricity</li>
+        <li>Recycle and reuse materials</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Precautions to Protect the Environment</h2>
+    <ul>
+        <li>Do not litter</li>
+        <li>Avoid cutting trees</li>
+        <li>Use public transport</li>
+        <li>Spread awareness among others</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Images of Nature</h2>
+    <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470" alt="Forest">
+    <p>Beautiful Green Forest</p>
+
+    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="Ocean">
+    <p>Clean Blue Ocean</p>
+</section>
+
+<section>
+    <h2>Slogans & Quotes</h2>
+    <p class="quote">"Save Nature, Save Future."</p>
+    <p class="quote">"Earth is our home, protect it."</p>
+    <p class="quote">"Go Green, Keep it Clean."</p>
+</section>
+
+<footer>
+    <p>Created for Environmental Awareness Project</p>
+</footer>
+
+</body>
+</html>
